@@ -10,7 +10,7 @@ This is a new account. I closed my previous one to protect the privacy of foster
 - **WCAG and ADA conformance.** Three years of evaluating web content and course materials against WCAG, first for a birth center and now for a national nonprofit, plus helping families write ADA complaints when something is broken and nobody will fix it.
 - **AI for sign language.** Named NVIDIA partner on an AI sign language recognition program, running calibration sessions and writing test scenarios.
 - **Listening systems.** Focus groups with Early Hearing Detection and Intervention programs, coded open-ended survey responses, and a community of 40,000 that tells us when we get it wrong.
-- **Zoom.** Several ASL accessibility projects with Zoom after its classroom mode turned out not to work for classes taught in ASL. Deaf users in the room with the people who build the tool.
+- **Zoom.** A formal accessibility feature request, escalated over six months and demonstrated live to Zoom's product team, after active speaker view and cloud recordings kept pushing signing instructors off screen. Deaf users in the room with the people who build the tool.
 - **Biotech advising.** Several companies building hearing technology and treatments with the Deaf community ask ASDC how to do that without leaving Deaf people out of their own product. We tell them.
 
 ## Repositories here
@@ -20,8 +20,9 @@ This is a new account. I closed my previous one to protect the privacy of foster
 | `accessible-meetings-checklist` | The checklist ASDC uses before any meeting, class, or conference session goes live |
 | `wcag-review-template` | The WCAG 2.2 AA review sheet I use on websites and class materials |
 | `ada-complaint-guide` | A plain-language guide for families on writing an ADA complaint that gets read |
-
-The AI web scrapers I built for ASDC's partnership and grant pipeline are coming once the keys are stripped out.
+| `asl-classes-on-zoom` | What breaks when you teach in ASL on Zoom, our workarounds, and what we have asked Zoom to change |
+| `causal-inference-exercises-r` | Turnout measurement, a difference-in-differences estimate, and anchoring vignettes, in base R |
+| `natality-prenatal-care-r` | When prenatal care begins across 3.99 million US births, by mother's race, in R |
 
 ## Background
 

@@ -23,6 +23,15 @@ This is a new account. I closed my previous one to protect the privacy of foster
 | `asl-classes-on-zoom` | What breaks when you teach in ASL on Zoom, our workarounds, and what we have asked Zoom to change |
 | `causal-inference-exercises-r` | Turnout measurement, a difference-in-differences estimate, and anchoring vignettes, in base R |
 | `natality-prenatal-care-r` | When prenatal care begins across 3.99 million US births, by mother's race, in R |
+| `cnm-scope-prenatal-care-brief` | A policy analysis brief on nurse-midwife scope of practice and first-trimester prenatal care, with the R and Quarto source |
+| `congress-social-media-handles` | Official Instagram and X handles for every member of the 119th Congress, plus cosponsors of thirteen maternal health bills |
+| `hill-day-meeting-tracker` | The workbook I used to schedule fifty constituents into congressional meetings, as a de-identified template |
+| `nonprofit-governance-templates` | Whistleblower, conflict of interest, NDA, code of conduct, delegation, and donor stewardship documents, generalized |
+| `home-health-nurse-field-tools` | A capacity and refusal script, a refusal of transport form, and vital sign trigger ranges for field nurses |
+| `critical-care-review-jeopardy` | A keyboard-accessible review game for a critical care nursing course, 61 clues, zero axe violations |
+| `job-radar` | A Python job scanner that pulls fourteen sources and scores postings against your own resumes |
+| `nonprofit-ops-agents` | Runbooks for the scheduled AI agents that run grant scanning, prospect validation, outreach drafting, and KPI collection at ASDC |
+| `weekly-meal-plan-agent` | A household meal planner that reads the fridge, writes the recipes, fills the cart, and never checks out |
 
 ## Background
 

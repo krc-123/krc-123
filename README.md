@@ -32,6 +32,7 @@ This is a new account. I closed my previous one to protect the privacy of foster
 | `job-radar` | A Python job scanner that pulls fourteen sources and scores postings against your own resumes |
 | `nonprofit-ops-agents` | Runbooks for the scheduled AI agents that run grant scanning, prospect validation, outreach drafting, and KPI collection at ASDC |
 | `weekly-meal-plan-agent` | A household meal planner that reads the fridge, writes the recipes, fills the cart, and never checks out |
+| `state-web-accessibility-title-ii` | axe-core scan of the Medicaid, newborn hearing and early intervention pages in all 50 states and DC, six months before the ADA Title II deadline, with the R analysis |
 
 ## Background
 

@@ -32,6 +32,12 @@ This is a new account. I closed my previous one to protect the privacy of foster
 | `job-radar` | A Python job scanner that pulls fourteen sources and scores postings against your own resumes |
 | `nonprofit-ops-agents` | Runbooks for the scheduled AI agents that run grant scanning, prospect validation, outreach drafting, and KPI collection at ASDC |
 | `weekly-meal-plan-agent` | A household meal planner that reads the fridge, writes the recipes, fills the cart, and never checks out |
+| `state-web-accessibility-title-ii` | axe-core scan of the Medicaid, newborn hearing and early intervention pages in all 50 states and DC, six months before the ADA Title II deadline, with the R analysis |
+| `ehdi-1-3-6-scorecard` | Every state's record on newborn hearing screening by 1 month, diagnosis by 3 months, and early intervention by 6 months, 2015 to 2022, from CDC's tables, with the R analysis |
+| `open-source-accessibility-issues` | How the 400 most-starred open source projects handle accessibility bugs next to ordinary bugs: who labels them, how long they wait, what they are about in WCAG terms |
+| `birth-centers-con` | Births in freestanding birth centers by state, 2007 to 2024, and what happened in the six states that dropped certificate of need for birth centers |
+| `congress-cosponsorship-networks` | Who cosponsors maternal health, deaf and hard of hearing, and disability bills in the 119th Congress, as a network, with an interactive graph |
+| `midwifery-practice-environment-2026` | Seventeen 2026 state policy changes to the midwifery practice environment from my ACNM legislative tracking, as a structured analysis |
 
 ## Background
 
